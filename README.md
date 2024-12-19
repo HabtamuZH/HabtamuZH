@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ I've been creating, learning, and growing as a developer since 2023. Currently, I'm a 4th-year Computer Science student at Wachemo University and a senior video editor with a sharp eye for detail.<br><br>
+✨ I've been creating, learning, and growing as a developer since 2022. Currently, I'm a 4th-year Computer Science student at Wachemo University and a senior video editor with a sharp eye for detail.<br><br>
 📚 I'm actively honing my skills in full-stack web development with technologies like React, Node.js, PHP, and MongoDB. Combining logic and creativity to solve complex problems is what excites me most.<br><br>
 🎯 My goals include contributing to innovative web solutions, diving into artificial intelligence, and inspiring others through my content. I'm also working on my startup, **Axis**, which aims to revolutionize the aerospace industry with an all-electric airplane designed for aerial tourism.<br><br>
 🎲 Fun fact: Outside of coding, I run YouTube channels like "Scalping_FX" and "Quick Psychology," create engaging content, trade Forex, and enjoy movies, tech blogs, and problem-solving challenges.
