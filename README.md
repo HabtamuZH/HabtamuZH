@@ -15,15 +15,10 @@ I build clean, scalable web apps and enjoy turning ideas into working systems.
 
 <p align="left">
 💻 Started my developer journey in 2022 and never slowed down.<br><br>
-
 🎓 4th-year Computer Science student at <strong>Wachemo University</strong>.<br><br>
-
 🧠 Strong focus on <strong>full-stack web development</strong> — I enjoy both UI precision and backend logic.<br><br>
-
 ⚙️ Currently working with <strong>React, Node.js, PHP, MongoDB, and MySQL</strong> to build real-world applications.<br><br>
-
 🎯 Goals: ship useful products, explore AI-powered systems, and build tools that solve real problems.<br><br>
-
 🎬 Outside coding: I run YouTube channels (Hami FX), trade Forex, edit videos professionally, and stay curious about tech, business, and systems thinking.
 </p>
 
