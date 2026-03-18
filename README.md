@@ -54,10 +54,10 @@ I build clean, scalable web apps and enjoy turning ideas into working systems.
 
 <p align="left">
 📧 Email: <a href="mailto:habtamuzenebe42@gmail.com">habtamuzenebe42@gmail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/habtamu-zenebe-8b435a310/">View Profile</a><br>
-📺 YouTube: <a href="https://www.youtube.com/@hami_FX21">@Hami_FX</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/habtamuzh/">View Profile</a><br>
+📺 YouTube: <a href="https://www.youtube.com/@fx_hami">@fx_hami</a><br>
 🐦 Twitter (X): <a href="https://x.com/fx_hami">@fx_hami</a><br>
-📷 Instagram: <a href="https://www.instagram.com/hami_fx21/">@hami_fx21</a><br>
+📷 Instagram: <a href="https://www.instagram.com/fx_hami/">@fx_hami</a><br>
 📱 Telegram: <a href="https://t.me/fx_hami">@fx_hami</a><br>
 📍 Location: Ethiopia
 </p>
