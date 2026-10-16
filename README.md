@@ -8,7 +8,7 @@ I enjoy working across the stack — from designing responsive interfaces to dev
 
 - 🎓 **Education:** BSc in Computer Science, Wachemo University (2026)
 - 💼 **Experience:** Software Engineering Internship at INSA Ethiopia
-- 🌐 **Portfolio:** [habtamu-dev.netlify.app](https://habtamu-dev.netlify.app)
+- 🌐 **Portfolio:** [habtamuz.pro.et](https://habtamuz.pro.et)
 - 💻 **GitHub:** [@HabtamuZH](https://github.com/HabtamuZH)
 - 📍 **Location:** Addis Ababa, Ethiopia
 
@@ -90,7 +90,7 @@ I'm interested in collaborating on meaningful software projects, contributing to
 
 - 📧 **Email:** [habtamuzenebe.h@gmail.com](mailto:habtamuzenebe.h@gmail.com)
 - 💼 **LinkedIn:** [Habtamu Zenebe Hailemariam](https://linkedin.com/in/habtamu-zh/)
-- 🌐 **Portfolio:** [habtamu-dev.netlify.app](https://habtamu-dev.netlify.app)
+- 🌐 **Portfolio:** [habtamuz.pro.et](https://habtamuz.pro.et)
 - 💻 **GitHub:** [HabtamuZH](https://github.com/HabtamuZH)
 
 ---
